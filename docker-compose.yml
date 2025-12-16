@@ -1,0 +1,12 @@
+services:
+  ap:
+    build: .
+    container_name: ap
+    restart: unless-stopped
+    ports:
+      - "3002:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - BASE_PATH=/ap
+      - ORIGIN=http://wizofcheese.com

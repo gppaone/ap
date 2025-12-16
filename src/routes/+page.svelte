@@ -1,5 +1,6 @@
 <script>
     import Modal from '$lib/components/Modal.svelte';
+    import { base } from '$app/paths';
 
     export let open = false;
     export let onClosed;
@@ -20,10 +21,10 @@
     }
 
     function loadProject(projectId) {
-        window.location.href = `/project-view?id=${projectId}`;
+        window.location.href = `${base}/project-view?id=${projectId}`;
     }
     function newProject() {
-        window.location.href = '/new-project';
+        window.location.href = `${base}/new-project`;
     }
 
 

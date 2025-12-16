@@ -1,0 +1,17 @@
+# Dependency caches
+node_modules
+.npmrc
+
+# Build artifacts
+.svelte-kit
+dist
+build
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+Thumbs.db
