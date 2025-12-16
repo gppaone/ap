@@ -64,14 +64,14 @@
                         SO1234567890
                     </td>
                     <td class="px-6 py-4">
-                        <div class="relative w-1/2 h-6 bg-slate-300 rounded-full overflow-hidden">
+                        <div class="relative w-1/2 h-6 rounded-full overflow-visible bg-transparent lg:overflow-hidden lg:bg-slate-300">
+    
                             <div
-                            class="absolute top-0 left-0 h-full bg-green-500 transition-all duration-500"
-                            style="width: 75%"
+                                class="absolute top-0 left-0 h-full transition-all duration-500 bg-transparent lg:bg-green-500" style="width: 35%"
                             ></div>
                         
-                            <div class="absolute top-0 left-0 h-full flex items-center pl-2">
-                            <span class="text-white font-bold text-xs">75%</span>
+                            <div class="absolute top-0 left-0 h-full flex items-center pl-2 text-slate-900 lg:text-white">
+                                <span class="font-bold text-xs">35%</span>
                             </div>
                         </div>
                     </td>
@@ -88,14 +88,14 @@
                         SO1234567891
                     </td>
                     <td class="px-6 py-4">
-                        <div class="relative w-1/2 h-6 bg-slate-300 rounded-full overflow-hidden">
+                        <div class="relative w-1/2 h-6 rounded-full overflow-visible bg-transparent lg:overflow-hidden lg:bg-slate-300">
+    
                             <div
-                            class="absolute top-0 left-0 h-full bg-green-500 transition-all duration-500"
-                            style="width: 30%"
+                                class="absolute top-0 left-0 h-full transition-all duration-500 bg-transparent lg:bg-green-500" style="width: 50%"
                             ></div>
                         
-                            <div class="absolute top-0 left-0 h-full flex items-center pl-2">
-                            <span class="text-white font-bold text-xs">30%</span>
+                            <div class="absolute top-0 left-0 h-full flex items-center pl-2 text-slate-900 lg:text-white">
+                                <span class="font-bold text-xs">50%</span>
                             </div>
                         </div>
                     </td>
@@ -112,14 +112,14 @@
                         SO1234567892
                     </td>
                     <td class="px-6 py-4">
-                        <div class="relative w-1/2 h-6 bg-slate-300 rounded-full overflow-hidden">
+                        <div class="relative w-1/2 h-6 rounded-full overflow-visible bg-transparent lg:overflow-hidden lg:bg-slate-300">
+    
                             <div
-                            class="absolute top-0 left-0 h-full bg-green-500 transition-all duration-500"
-                            style="width: 95%"
+                                class="absolute top-0 left-0 h-full transition-all duration-500 bg-transparent lg:bg-green-500" style="width: 95%"
                             ></div>
                         
-                            <div class="absolute top-0 left-0 h-full flex items-center pl-2">
-                            <span class="text-white font-bold text-xs">95%</span>
+                            <div class="absolute top-0 left-0 h-full flex items-center pl-2 text-slate-900 lg:text-white">
+                                <span class="font-bold text-xs">95%</span>
                             </div>
                         </div>
                     </td>
@@ -136,14 +136,14 @@
                         SO1234567893
                     </td>
                     <td class="px-6 py-4">
-                        <div class="relative w-1/2 h-6 bg-slate-300 rounded-full overflow-hidden">
+                        <div class="relative w-1/2 h-6 rounded-full overflow-visible bg-transparent lg:overflow-hidden lg:bg-slate-300">
+    
                             <div
-                            class="absolute top-0 left-0 h-full bg-green-500 transition-all duration-500"
-                            style="width: 100%"
+                                class="absolute top-0 left-0 h-full transition-all duration-500 bg-transparent lg:bg-green-500" style="width: 100%"
                             ></div>
                         
-                            <div class="absolute top-0 left-0 h-full flex items-center pl-2">
-                            <span class="text-white font-bold text-xs">100%</span>
+                            <div class="absolute top-0 left-0 h-full flex items-center pl-2 text-slate-900 lg:text-white">
+                                <span class="font-bold text-xs">100%</span>
                             </div>
                         </div>
                     </td>
@@ -160,14 +160,14 @@
                         SO1234567894
                     </td>
                     <td class="px-6 py-4">
-                        <div class="relative w-1/2 h-6 bg-slate-300 rounded-full overflow-hidden">
+                        <div class="relative w-1/2 h-6 rounded-full overflow-visible bg-transparent lg:overflow-hidden lg:bg-slate-300">
+    
                             <div
-                            class="absolute top-0 left-0 h-full bg-green-500 transition-all duration-500"
-                            style="width: 0%"
+                                class="absolute top-0 left-0 h-full transition-all duration-500 bg-transparent lg:bg-green-500" style="width: 0%"
                             ></div>
                         
-                            <div class="absolute top-0 left-0 h-full flex items-center pl-2">
-                            <span class="text-white font-bold text-xs">0%</span>
+                            <div class="absolute top-0 left-0 h-full flex items-center pl-2 text-slate-900 lg:text-white">
+                                <span class="font-bold text-xs">0%</span>
                             </div>
                         </div>
                     </td>
